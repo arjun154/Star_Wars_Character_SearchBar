@@ -1,0 +1,35 @@
+.root {
+  display: flex;
+}
+
+.left {
+  width: 50%;
+  text-align: center;
+}
+
+.right {
+  width: 50%;
+  padding-top: 10px;
+}
+
+.head {
+  font-size: 5em;
+}
+
+.text {
+  color: rgb(199, 194, 194);
+  float: left;
+  clear: both;
+}
+
+.box {
+  width: 300px;
+  margin-left: 20%;
+  font-size: x-large;
+  margin-bottom: 10px;
+}
+
+.data {
+  width: 150px;
+  float: right;
+}
